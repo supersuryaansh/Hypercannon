@@ -1,0 +1,18 @@
+{
+  "name": "hypercannon",
+  "version": "0.0.1",
+  "description": "Hypercannon to transfer logs/data over hyperdht RPC P2P",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm test"
+  },
+  "author": "supersuryaansh",
+  "license": "ISC",
+  "dependencies": {
+    "@hyperswarm/rpc": "^3.3.2",
+    "b4a": "^1.6.6",
+    "hyper-cmd-lib-keys": "^0.1.1",
+    "hyperdht": "^6.16.2"
+  }
+}
